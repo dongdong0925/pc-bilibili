@@ -1,0 +1,37 @@
+{
+  "id": "3807948",
+  "name": "b站",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "848653",
+      "name": "xiala",
+      "font_class": "xiala",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "7594063",
+      "name": "24gl-playSquare",
+      "font_class": "24gl-playSquare",
+      "unicode": "ea72",
+      "unicode_decimal": 60018
+    },
+    {
+      "icon_id": "9592590",
+      "name": "HTSCIT_留言",
+      "font_class": "liuyan",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "12316659",
+      "name": "搜素",
+      "font_class": "sousu",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}
